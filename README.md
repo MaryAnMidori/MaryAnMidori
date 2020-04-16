@@ -1,0 +1,2 @@
+# MaryAnMidori
+Git.init
